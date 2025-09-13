@@ -1,0 +1,7 @@
+.{
+    .name = .std_helloworld,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.15.1",
+    .paths = .{""},
+    .fingerprint = 0xe78bcf0582b769c0,
+}
